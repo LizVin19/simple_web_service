@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.log
+
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
+venv/
+env/
+.simple_web_service/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+.mypy_cache/
+
+.env
